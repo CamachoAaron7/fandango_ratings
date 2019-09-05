@@ -193,7 +193,7 @@ plt.ylim(0,5.5)
 plt.yticks(arange(0,5.1,.5))
 plt.ylabel('Stars')
 plt.legend(framealpha = 0, loc = 'upper center')
-# plt.show()
+plt.show()
 
 # Difference in mean from 2015 relative to the mean in 2016
 # print((summary.loc['mean'][0] - summary.loc['mean'][1]) / summary.loc['mean'][0])
