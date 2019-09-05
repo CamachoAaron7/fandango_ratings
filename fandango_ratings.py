@@ -1,4 +1,4 @@
-"""Based on project from Alex Olteanu, content author at dataquest 
+"""Based on project from Alex Olteanu, content author at dataquest
    link: https://www.dataquest.io/blog/data-science-project-fandango/
    Also, derived from the research done by Walt Hickey in 2015
    Link: https://github.com/fivethirtyeight/data/tree/master/fandango"""
@@ -206,4 +206,4 @@ plt.legend(framealpha = 0, loc = 'upper center')
    Fandango has been making to its score rating system in 2019 to
    its newlyish acquired subsidiary Rotten Tomatoes, that one reason
    for the scoring difference from 2015 to 2016 maybe that Fandango
-   fixed the biased rating system hickey's analysis uncovered.
+   fixed the biased rating system hickey's analysis uncovered."""
